@@ -727,6 +727,14 @@
       "decimals": 18,
       "chainId": 3,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc7AD46e0b8a400Bb3C915120d284AafbA8fc4735/logo.png"
+    },
+    {
+      "name": "CircleSwap Governance Token",
+      "address": "0xbe5DF2fac88BB096A973e664171E60586bC5940c",
+      "symbol": "CIR",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc7AD46e0b8a400Bb3C915120d284AafbA8fc4735/logo.png"
     }
   ],
   "version": {
