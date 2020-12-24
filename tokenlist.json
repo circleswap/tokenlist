@@ -8,38 +8,6 @@
   "timestamp": "2020-09-03T12:37:57.000+00:00",
   "tokens": [
     {
-      "name": "Token1",
-      "address": "0x3d42b310c8c989fdf593738703b0e7e98faefeef",
-      "symbol": "TK1",
-      "decimals": 18,
-      "chainId": 3,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xd0A1E359811322d97991E03f863a0C30C2cF029C/logo.png"
-    },
-    {
-      "name": "Token2",
-      "address": "0x64fcf9e0f75c23cdbe2af3879ea5a4a07119dd50",
-      "symbol": "TK2",
-      "decimals": 18,
-      "chainId": 3,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4F96Fe3b7A6Cf9725f59d353F723c1bDb64CA6Aa/logo.png"
-    },
-    {
-      "name": "Token3",
-      "address": "0xcf4036329fcc91b057f8f4386ea7c0a9be7c1170",
-      "symbol": "TK3",
-      "decimals": 18,
-      "chainId": 3,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB4272071eCAdd69d933AdcD19cA99fe80664fc08/logo.png"
-    },
-    {
-      "name": "Token4",
-      "address": "0xcb5ce2798732718d86b7b0c18134ca08b589a9b2",
-      "symbol": "TK4",
-      "decimals": 18,
-      "chainId": 3,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc7AD46e0b8a400Bb3C915120d284AafbA8fc4735/logo.png"
-    },
-    {
       "name": "CircleSwap Governance Token",
       "address": "0xbe5DF2fac88BB096A973e664171E60586bC5940c",
       "symbol": "CIR",
