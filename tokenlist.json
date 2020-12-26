@@ -1,6 +1,6 @@
 {
   "name": "CircleSwap",
-  "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/compound-interface.svg",
+  "logoURI": "https://raw.githubusercontent.com/circleswap/tokenlist/main/assets/CIR.svg",
   "keywords": [
     "circleswap",
     "defi"
@@ -13,7 +13,7 @@
       "symbol": "CIR",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/circleswap/tokenlist/main/assets/CIR.png"
     },
     {
       "name": "Wrapped HT",
@@ -21,7 +21,7 @@
       "symbol": "WHT",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/circleswap/tokenlist/main/assets/HT.png"
     },
     {
       "name": "Heco-Peg HUSD Token",
@@ -29,7 +29,7 @@
       "symbol": "HUSD",
       "decimals": 8,
       "chainId": 128,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/circleswap/tokenlist/main/assets/USDT.png"
     },
     {
       "name": "Heco-Peg ETH Token",
@@ -37,7 +37,7 @@
       "symbol": "ETH",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/circleswap/tokenlist/main/assets/ETH.png"
     },
     {
       "name": "Heco-Peg HBTC Token",
@@ -45,7 +45,7 @@
       "symbol": "HBTC",
       "decimals": 18,
       "chainId": 128,
-      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xBA11D00c5f74255f56a5E366F4F77f5A186d7f55/logo.png"
+      "logoURI": "https://raw.githubusercontent.com/circleswap/tokenlist/main/assets/BTC.png"
     }
   ],
   "version": {
