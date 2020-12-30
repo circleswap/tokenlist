@@ -29,7 +29,7 @@
       "symbol": "HUSD",
       "decimals": 8,
       "chainId": 128,
-      "logoURI": "https://raw.githubusercontent.com/circleswap/tokenlist/main/assets/USDT.png"
+      "logoURI": "https://raw.githubusercontent.com/circleswap/tokenlist/main/assets/HUSD.png"
     },
     {
       "name": "Heco-Peg ETH Token",
