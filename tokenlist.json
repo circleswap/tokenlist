@@ -45,6 +45,14 @@
       "symbol": "HBTC",
       "decimals": 18,
       "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/circleswap/tokenlist/main/assets/HUSD.png"
+    },
+    {
+      "name": "Tether USD",
+      "address": "0x17cdbae3ae402da0886f95a7402a181ce465c41c",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 3,
       "logoURI": "https://raw.githubusercontent.com/circleswap/tokenlist/main/assets/BTC.png"
     }
   ],
